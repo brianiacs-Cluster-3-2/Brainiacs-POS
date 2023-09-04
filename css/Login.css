@@ -14,7 +14,8 @@
 			height: 440px;
 			width: 350px;
 			margin-top: auto;
-			
+			margin-bottom: auto;
+			background: #f39c12;
 			position: relative;
 			display: flex;
 			justify-content: center;
